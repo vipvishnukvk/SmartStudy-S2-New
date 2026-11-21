@@ -1,0 +1,2566 @@
+{
+  "title": "CBSE Class 10 Board Exam 2027 Study Planner",
+  "timezone": "Asia/Qatar",
+  "plan_start": "2026-11-22",
+  "main_plan_end": "2027-02-11",
+  "full_plan_end": "2027-03-08",
+  "exams": [
+    {
+      "date": "2026-12-03",
+      "subject": "Science",
+      "type": "Pre-board 1",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2026-12-06",
+      "subject": "Hindi",
+      "type": "Pre-board 1",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2026-12-08",
+      "subject": "English",
+      "type": "Pre-board 1",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2026-12-10",
+      "subject": "Maths",
+      "type": "Pre-board 1",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2026-12-13",
+      "subject": "AI",
+      "type": "Pre-board 1",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2026-12-15",
+      "subject": "Social",
+      "type": "Pre-board 1",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-01-05",
+      "subject": "Hindi",
+      "type": "Pre-board 2",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-01-07",
+      "subject": "English",
+      "type": "Pre-board 2",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-01-10",
+      "subject": "Maths",
+      "type": "Pre-board 2",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-01-12",
+      "subject": "AI",
+      "type": "Pre-board 2",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-01-14",
+      "subject": "Science",
+      "type": "Pre-board 2",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-01-17",
+      "subject": "Social",
+      "type": "Pre-board 2",
+      "code": "",
+      "time": "School to confirm"
+    },
+    {
+      "date": "2027-02-17",
+      "subject": "Mathematics Standard",
+      "type": "Board Exam",
+      "code": "041",
+      "time": "8:00-11:00 AM"
+    },
+    {
+      "date": "2027-02-22",
+      "subject": "Science",
+      "type": "Board Exam",
+      "code": "086",
+      "time": "8:00-11:00 AM"
+    },
+    {
+      "date": "2027-02-24",
+      "subject": "Artificial Intelligence",
+      "type": "Board Exam",
+      "code": "417",
+      "time": "8:00-10:00 AM"
+    },
+    {
+      "date": "2027-02-26",
+      "subject": "English Language & Literature",
+      "type": "Board Exam",
+      "code": "184",
+      "time": "8:00-11:00 AM"
+    },
+    {
+      "date": "2027-03-03",
+      "subject": "Hindi Course B",
+      "type": "Board Exam",
+      "code": "085",
+      "time": "8:00-11:00 AM"
+    },
+    {
+      "date": "2027-03-08",
+      "subject": "Social Science",
+      "type": "Board Exam",
+      "code": "087",
+      "time": "8:00-11:00 AM"
+    }
+  ],
+  "days": {
+    "2026-11-22": {
+      "date": "2026-11-22",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Science: Chemical Reactions and Equations: types, balancing",
+          "subject": "Science"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "English: First Flight: A Letter to God + Nelson Mandela",
+          "subject": "English"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 4
+    },
+    "2026-11-23": {
+      "date": "2026-11-23",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: Acids, Bases and Salts: reactions, uses and pH",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: AI 417: AI Project Cycle and ethics",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 4
+    },
+    "2026-11-24": {
+      "date": "2026-11-24",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Social: History: Rise of Nationalism in Europe",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 4
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: Metals and Non-metals: properties, reactivity",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Maths: Real Numbers: FTA, HCF/LCM, irrationality",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 4
+    },
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "Science: Carbon and Its Compounds: bonding and reactions",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Social: History: Nationalism in India",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 4
+    },
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "kind": "WEEKEND",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: Polynomials: zeroes and coefficient relations",
+          "subject": "Maths"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "AI: AI 417: Advanced Concepts of Modeling",
+          "subject": "AI"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "Science: Life Processes: diagrams and explanations",
+          "subject": "Science"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "English: First Flight: Two Stories About Flying",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 4
+    },
+    "2026-11-28": {
+      "date": "2026-11-28",
+      "kind": "WEEKEND",
+      "week": 1,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: Pair of Linear Equations: graphical and algebraic",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "Science: Control and Coordination: neurons, reflex, hormones",
+          "subject": "Science"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "Hindi: Hindi Course B: Sparsh prescribed prose",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 4
+    },
+    "2026-11-29": {
+      "date": "2026-11-29",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "SCIENCE: Biology diagrams and heredity quick recall",
+          "subject": "Science"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "SCIENCE: Chemistry reactions and equations",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 5
+    },
+    "2026-11-30": {
+      "date": "2026-11-30",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "SCIENCE: Light and Electricity formulas",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "SCIENCE: Biology one-mark and diagram questions",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 5
+    },
+    "2026-12-01": {
+      "date": "2026-12-01",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "SCIENCE: revise acids, bases, metals and carbon",
+          "subject": "Science"
+        },
+        {
+          "time": "9:00-9:15 PM",
+          "text": "SCIENCE: list 5 doubts from tuition, then sleep",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 5
+    },
+    "2026-12-02": {
+      "date": "2026-12-02",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "SCIENCE: Physics numericals; formulas; ray/circuit diagrams",
+          "subject": "Science"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "SCIENCE: Chemistry reactions + Biology labels; rapid recall",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:15 light Science recap",
+      "source_page": 5
+    },
+    "2026-12-03": {
+      "date": "2026-12-03",
+      "kind": "EXAM DAY: SCIENCE",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:15 PM",
+          "text": "HINDI B: grammar, writing formats and unseen passage",
+          "subject": "Hindi"
+        },
+        {
+          "time": "6:00-7:30 PM",
+          "text": "HINDI B: Sparsh prose + Sanchayan short answers",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Hindi tuition 3:30-5:30 PM",
+      "source_page": 5
+    },
+    "2026-12-04": {
+      "date": "2026-12-04",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "HINDI B: prose + poetry, textbook Q&A, key ideas",
+          "subject": "Hindi"
+        },
+        {
+          "time": "3:00-5:30 PM",
+          "text": "HINDI B: writing, grammar, 1 timed section + corrections",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Science tuition 12:00-2:00 PM",
+      "source_page": 5
+    },
+    "2026-12-05": {
+      "date": "2026-12-05",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 2,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "HINDI B: sample paper reading/grammar/writing",
+          "subject": "Hindi"
+        },
+        {
+          "time": "2:30-5:00 PM",
+          "text": "HINDI B: literature extracts, weak answers, final checklist",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Hindi tuition 11:30 AM-1:30 PM",
+      "source_page": 5
+    },
+    "2026-12-06": {
+      "date": "2026-12-06",
+      "kind": "EXAM DAY: HINDI B",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:30 PM",
+          "text": "ENGLISH: First Flight prose and poems, extracts",
+          "subject": "English"
+        },
+        {
+          "time": "5:00-6:30 PM",
+          "text": "ENGLISH: Footprints Without Feet story summaries and Q&A",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; no tuition",
+      "source_page": 6
+    },
+    "2026-12-07": {
+      "date": "2026-12-07",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "ENGLISH: literature extracts + long/short answers",
+          "subject": "English"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "ENGLISH: unseen passages, grammar and writing formats",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 English review",
+      "source_page": 6
+    },
+    "2026-12-08": {
+      "date": "2026-12-08",
+      "kind": "EXAM DAY: ENGLISH",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-4:00 PM",
+          "text": "MATHS 041: Algebra (quadratics, AP, linear equations)",
+          "subject": "Maths"
+        },
+        {
+          "time": "5:00-6:15 PM",
+          "text": "MATHS 041: Real Numbers, Polynomials, formulas",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Science tuition 7:00-9:00 PM",
+      "source_page": 6
+    },
+    "2026-12-09": {
+      "date": "2026-12-09",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "MATHS 041: timed practice, geometry + trigonometry",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "MATHS 041: mensuration, statistics/probability, error log",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 formula review",
+      "source_page": 6
+    },
+    "2026-12-10": {
+      "date": "2026-12-10",
+      "kind": "EXAM DAY: MATHS 041",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:15 PM",
+          "text": "AI 417: AI project cycle, ethics, advanced modeling",
+          "subject": "AI"
+        },
+        {
+          "time": "6:00-7:30 PM",
+          "text": "AI 417: model evaluation and important definitions",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Hindi tuition 3:30-5:30 PM",
+      "source_page": 6
+    },
+    "2026-12-11": {
+      "date": "2026-12-11",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "AI 417: modeling, evaluation metrics; numerical examples",
+          "subject": "AI"
+        },
+        {
+          "time": "3:00-5:30 PM",
+          "text": "AI 417: Computer Vision, NLP, employability, Q&A",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Science tuition 12:00-2:00 PM",
+      "source_page": 6
+    },
+    "2026-12-12": {
+      "date": "2026-12-12",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 3,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "AI 417: timed sample paper / textbook questions",
+          "subject": "AI"
+        },
+        {
+          "time": "2:30-5:00 PM",
+          "text": "AI 417: correct errors, key terms, diagrams, definitions",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Hindi tuition 11:30 AM-1:30 PM",
+      "source_page": 6
+    },
+    "2026-12-13": {
+      "date": "2026-12-13",
+      "kind": "EXAM DAY: AI 417",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:30 PM",
+          "text": "SOCIAL: History nationalism topics, key dates and events",
+          "subject": "Social"
+        },
+        {
+          "time": "5:00-6:30 PM",
+          "text": "SOCIAL: Civics power-sharing and federalism, Q&A",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; no tuition",
+      "source_page": 7
+    },
+    "2026-12-14": {
+      "date": "2026-12-14",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "SOCIAL: Geography resources, agriculture, maps",
+          "subject": "Social"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "SOCIAL: Economics and remaining Civics, source questions",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 map recall",
+      "source_page": 7
+    },
+    "2026-12-15": {
+      "date": "2026-12-15",
+      "kind": "EXAM DAY: SOCIAL 087",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:15 PM",
+          "text": "POST-EXAM: list errors, difficult chapters and marks to review",
+          "subject": "General"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "SCIENCE: return to foundation revision, easy concepts",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Science tuition 7:00-9:00 PM",
+      "source_page": 7
+    },
+    "2026-12-16": {
+      "date": "2026-12-16",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "SCIENCE: Human Eye concepts and diagrams",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "MATHS: AP formulas and examples",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 7
+    },
+    "2026-12-17": {
+      "date": "2026-12-17",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "SCIENCE: Electricity concepts and numericals",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "SOCIAL: Print Culture and modern world",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 7
+    },
+    "2026-12-18": {
+      "date": "2026-12-18",
+      "kind": "WEEKEND",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "MATHS: Triangles similarity, proofs",
+          "subject": "Maths"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "SOCIAL: Geography resources and mapping",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 7
+    },
+    "2026-12-19": {
+      "date": "2026-12-19",
+      "kind": "WEEKEND",
+      "week": 4,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "MATHS: Coordinate Geometry",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "SCIENCE: Magnetic Effects of Electric Current",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 7
+    },
+    "2026-12-20": {
+      "date": "2026-12-20",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Social: Geography: Forest and Wildlife Resources",
+          "subject": "Social"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "English: First Flight: Mijbil the Otter",
+          "subject": "English"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 8
+    },
+    "2026-12-21": {
+      "date": "2026-12-21",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: Our Environment: food chains, waste and ozone",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: AI 417: Natural Language Processing",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 8
+    },
+    "2026-12-22": {
+      "date": "2026-12-22",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Social: Geography: Water Resources + maps",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 8
+    },
+    "2026-12-23": {
+      "date": "2026-12-23",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: Science: mixed NCERT, competency and errors",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Maths: Introduction to Trigonometry: ratios and identities",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 8
+    },
+    "2026-12-24": {
+      "date": "2026-12-24",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "Science: revise Chemical Reactions and Equations: types, balancing; solve timed questions",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Social: Geography: Agriculture + maps",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 8
+    },
+    "2026-12-25": {
+      "date": "2026-12-25",
+      "kind": "WEEKEND",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: Applications of Trigonometry: heights and distances",
+          "subject": "Maths"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "AI: AI 417: Employability Skills prescribed units",
+          "subject": "AI"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "Social: Geography: Minerals and Energy Resources + maps",
+          "subject": "Social"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "English: First Flight: Madam Rides the Bus",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 8
+    },
+    "2026-12-26": {
+      "date": "2026-12-26",
+      "kind": "WEEKEND",
+      "week": 5,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: Circles: tangents and related proofs",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "Science: revise Acids, Bases and Salts: reactions, uses and pH; solve timed questions",
+          "subject": "Science"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "Hindi: Hindi Course B: Sanchayan prescribed stories",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 8
+    },
+    "2026-12-27": {
+      "date": "2026-12-27",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Social: Geography: Manufacturing Industries + maps",
+          "subject": "Social"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "English: First Flight: The Sermon at Benares",
+          "subject": "English"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 9
+    },
+    "2026-12-28": {
+      "date": "2026-12-28",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: revise Metals and Non-metals: properties, reactivity; solve timed questions",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: AI 417: MCQs, case/application questions",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 9
+    },
+    "2026-12-29": {
+      "date": "2026-12-29",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Social: Geography: Lifelines of National Economy (map work)",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 9
+    },
+    "2026-12-30": {
+      "date": "2026-12-30",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: revise Carbon and Its Compounds: bonding and reactions; solve timed questions",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Maths: Areas Related to Circles: sectors and segments",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 9
+    },
+    "2026-12-31": {
+      "date": "2026-12-31",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "Science: revise Life Processes: diagrams and explanations; solve timed questions",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Social: Political Science: Power Sharing",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 9
+    },
+    "2027-01-01": {
+      "date": "2027-01-01",
+      "kind": "WEEKEND",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: Surface Areas and Volumes: combined solids",
+          "subject": "Maths"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "AI: revise AI 417: AI Project Cycle and ethics; solve timed questions",
+          "subject": "AI"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "Social: Political Science: Federalism",
+          "subject": "Social"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "English: First Flight: The Proposal",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 9
+    },
+    "2027-01-02": {
+      "date": "2027-01-02",
+      "kind": "WEEKEND",
+      "week": 6,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: Statistics: grouped data mean, median, mode",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "Science: revise Control and Coordination: neurons, reflex, hormones; solve timed questions",
+          "subject": "Science"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "Hindi: Hindi Course B: grammar practice",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 9
+    },
+    "2027-01-03": {
+      "date": "2027-01-03",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "HINDI B: literature, poetry and grammar",
+          "subject": "Hindi"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "HINDI B: writing section, mistakes and formats",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 10
+    },
+    "2027-01-04": {
+      "date": "2027-01-04",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "HINDI B: literature extracts, chapter-wise textbook Q&A",
+          "subject": "Hindi"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "HINDI B: timed grammar and writing + correction",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 Hindi recap",
+      "source_page": 10
+    },
+    "2027-01-05": {
+      "date": "2027-01-05",
+      "kind": "EXAM DAY: HINDI B",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-4:00 PM",
+          "text": "ENGLISH: literature prose/poems, key points and extracts",
+          "subject": "English"
+        },
+        {
+          "time": "5:00-6:15 PM",
+          "text": "ENGLISH: supplementary reader and Q&A",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Science tuition 7:00-9:00 PM",
+      "source_page": 10
+    },
+    "2027-01-06": {
+      "date": "2027-01-06",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "ENGLISH: sample paper literature + comprehension",
+          "subject": "English"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "ENGLISH: grammar, letter/analytical paragraph, mistakes",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 light recap",
+      "source_page": 10
+    },
+    "2027-01-07": {
+      "date": "2027-01-07",
+      "kind": "EXAM DAY: ENGLISH",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:15 PM",
+          "text": "MATHS 041: algebra practice and chapter weak spots",
+          "subject": "Maths"
+        },
+        {
+          "time": "6:00-7:30 PM",
+          "text": "MATHS 041: triangles, circles and coordinate geometry",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Hindi tuition 3:30-5:30 PM",
+      "source_page": 10
+    },
+    "2027-01-08": {
+      "date": "2027-01-08",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "MATHS 041: one full timed paper + marking scheme",
+          "subject": "Maths"
+        },
+        {
+          "time": "3:00-5:30 PM",
+          "text": "MATHS 041: correct errors; algebra, geometry, trigonometry",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Science tuition 12:00-2:00 PM",
+      "source_page": 10
+    },
+    "2027-01-09": {
+      "date": "2027-01-09",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 7,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "MATHS 041: areas/volumes, statistics and probability",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-5:00 PM",
+          "text": "MATHS 041: competency questions, proofs, formula/error log",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Hindi tuition 11:30 AM-1:30 PM",
+      "source_page": 10
+    },
+    "2027-01-10": {
+      "date": "2027-01-10",
+      "kind": "EXAM DAY: MATHS 041",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:30 PM",
+          "text": "AI 417: project cycle, modeling and ethics",
+          "subject": "AI"
+        },
+        {
+          "time": "5:00-6:30 PM",
+          "text": "AI 417: evaluation metrics and worked examples",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; no tuition",
+      "source_page": 11
+    },
+    "2027-01-11": {
+      "date": "2027-01-11",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "AI 417: evaluation, CV, NLP, employability; textbook Q&A",
+          "subject": "AI"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "AI 417: timed practice paper, corrections, short notes",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 flash review",
+      "source_page": 11
+    },
+    "2027-01-12": {
+      "date": "2027-01-12",
+      "kind": "EXAM DAY: AI 417",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-4:00 PM",
+          "text": "SCIENCE: Chemistry reactions and carbon/metal concepts",
+          "subject": "Science"
+        },
+        {
+          "time": "5:00-6:15 PM",
+          "text": "SCIENCE: Biology diagrams, genetics and processes",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Science tuition 7:00-9:00 PM",
+      "source_page": 11
+    },
+    "2027-01-13": {
+      "date": "2027-01-13",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "SCIENCE: Physics Light/Electricity numericals and diagrams",
+          "subject": "Science"
+        },
+        {
+          "time": "2:00-3:30 PM",
+          "text": "SCIENCE: remaining Biology + Chemistry, practice questions",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel 4:00-7:00 PM; 7:30-8:00 formula recall",
+      "source_page": 11
+    },
+    "2027-01-14": {
+      "date": "2027-01-14",
+      "kind": "EXAM DAY: SCIENCE",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:15 PM",
+          "text": "SOCIAL: History timeline, nationalism, textbook Q&A",
+          "subject": "Social"
+        },
+        {
+          "time": "6:00-7:30 PM",
+          "text": "SOCIAL: Civics concepts and case/source questions",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; Hindi tuition 3:30-5:30 PM",
+      "source_page": 11
+    },
+    "2027-01-15": {
+      "date": "2027-01-15",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "SOCIAL: History + Civics, long answers and key terms",
+          "subject": "Social"
+        },
+        {
+          "time": "3:00-5:30 PM",
+          "text": "SOCIAL: Geography, maps, resources and agriculture",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Science tuition 12:00-2:00 PM",
+      "source_page": 11
+    },
+    "2027-01-16": {
+      "date": "2027-01-16",
+      "kind": "PREPARATION HOLIDAY",
+      "week": 8,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "SOCIAL: Economics development/sectors/money/globalisation",
+          "subject": "Social"
+        },
+        {
+          "time": "2:30-5:00 PM",
+          "text": "SOCIAL: full mixed paper, map marking, correct weak answers",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi tuition 11:30 AM-1:30 PM",
+      "source_page": 11
+    },
+    "2027-01-17": {
+      "date": "2027-01-17",
+      "kind": "EXAM DAY: SOCIAL 087",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "2:00-3:00 PM",
+          "text": "POST-EXAM: record weak areas from all six papers",
+          "subject": "General"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "RECOVERY: set second-revision priority list for Monday",
+          "subject": "General"
+        }
+      ],
+      "commitment": "FIXED: Exam 8:00-11:00 AM; home ~12:00; no tuition",
+      "source_page": 12
+    },
+    "2027-01-18": {
+      "date": "2027-01-18",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "SCIENCE: timed revision of weak chapters",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: timed questions and corrections",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 12
+    },
+    "2027-01-19": {
+      "date": "2027-01-19",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "SOCIAL: source-based questions and weak answers",
+          "subject": "Social"
+        },
+        {
+          "time": "9:00-9:15 PM",
+          "text": "Quick recap, then rest",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 12
+    },
+    "2027-01-20": {
+      "date": "2027-01-20",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "SCIENCE: weak diagrams and Chemistry",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "MATHS: Standard problem-solving and error log",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 12
+    },
+    "2027-01-21": {
+      "date": "2027-01-21",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "SCIENCE: formulas and concepts",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "SOCIAL: written answers and maps",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 12
+    },
+    "2027-01-22": {
+      "date": "2027-01-22",
+      "kind": "WEEKEND",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "MATHS: timed section test",
+          "subject": "Maths"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "SOCIAL: source-based answers",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 12
+    },
+    "2027-01-23": {
+      "date": "2027-01-23",
+      "kind": "WEEKEND",
+      "week": 9,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "MATHS: practice weak chapters",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "SCIENCE: error correction and revision",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 12
+    },
+    "2027-01-24": {
+      "date": "2027-01-24",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Social: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Social"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "English: second-pass revision + timed questions; correct weak chapters",
+          "subject": "English"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 13
+    },
+    "2027-01-25": {
+      "date": "2027-01-25",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: second-pass revision + timed questions; correct weak chapters",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 13
+    },
+    "2027-01-26": {
+      "date": "2027-01-26",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Social: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 13
+    },
+    "2027-01-27": {
+      "date": "2027-01-27",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Maths: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 13
+    },
+    "2027-01-28": {
+      "date": "2027-01-28",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "Science: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Social: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 13
+    },
+    "2027-01-29": {
+      "date": "2027-01-29",
+      "kind": "WEEKEND",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Maths"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "AI: second-pass revision + timed questions; correct weak chapters",
+          "subject": "AI"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "Social: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Social"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "English: second-pass revision + timed questions; correct weak chapters",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 13
+    },
+    "2027-01-30": {
+      "date": "2027-01-30",
+      "kind": "WEEKEND",
+      "week": 10,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "Science: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Science"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "Hindi: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 13
+    },
+    "2027-01-31": {
+      "date": "2027-01-31",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Social: second-pass revision + timed questions; correct weak chapters",
+          "subject": "Social"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "English: second-pass revision + timed questions; correct weak chapters",
+          "subject": "English"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 14
+    },
+    "2027-02-01": {
+      "date": "2027-02-01",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: full-syllabus sample/section practice + error-log corrections",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 14
+    },
+    "2027-02-02": {
+      "date": "2027-02-02",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 14
+    },
+    "2027-02-03": {
+      "date": "2027-02-03",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Maths: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 14
+    },
+    "2027-02-04": {
+      "date": "2027-02-04",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 14
+    },
+    "2027-02-05": {
+      "date": "2027-02-05",
+      "kind": "WEEKEND",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Maths"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "AI: full-syllabus sample/section practice + error-log corrections",
+          "subject": "AI"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "English: full-syllabus sample/section practice + error-log corrections",
+          "subject": "English"
+        }
+      ],
+      "commitment": "FIXED: Science online: 12:00-2:00 PM",
+      "source_page": 14
+    },
+    "2027-02-06": {
+      "date": "2027-02-06",
+      "kind": "WEEKEND",
+      "week": 11,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Maths: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "Hindi: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 11:30 AM-1:30 PM",
+      "source_page": 14
+    },
+    "2027-02-07": {
+      "date": "2027-02-07",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 12,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "English: full-syllabus sample/section practice + error-log corrections",
+          "subject": "English"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 15
+    },
+    "2027-02-08": {
+      "date": "2027-02-08",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 12,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 15
+    },
+    "2027-02-09": {
+      "date": "2027-02-09",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 12,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School tuition 2:00-5:00 PM IF held; SCIENCE ONLINE 7:00-9:00 PM. If cancelled: 2:00-2:30 lunch; 2:30-4:00 previous worksheets; 4:15-5:00 correct mistakes.",
+      "source_page": 15
+    },
+    "2027-02-10": {
+      "date": "2027-02-10",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 12,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Maths tuition + travel: 4:00-7:00 PM",
+      "source_page": 15
+    },
+    "2027-02-11": {
+      "date": "2027-02-11",
+      "kind": "SCHOOL 7:00 AM-2:00 PM",
+      "week": 12,
+      "phase": "Daily planner",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "Social: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Social"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Science: full-syllabus sample/section practice + error-log corrections",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "FIXED: Hindi online: 3:30-5:30 PM",
+      "source_page": 15
+    },
+    "2027-02-12": {
+      "date": "2027-02-12",
+      "kind": "MATHS-ONLY FINAL REVISION",
+      "week": 13,
+      "phase": "Maths final five days",
+      "sessions": [
+        {
+          "time": "8:30-11:30 AM",
+          "text": "Maths Standard full paper (3 h) under time limit",
+          "subject": "Maths"
+        },
+        {
+          "time": "3:00-5:00 PM",
+          "text": "Mark answers + make top-10 error list",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "Check with school and teachers whether regular tuition still continues.",
+      "source_page": 16
+    },
+    "2027-02-13": {
+      "date": "2027-02-13",
+      "kind": "MATHS-ONLY FINAL REVISION",
+      "week": 13,
+      "phase": "Maths final five days",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "Algebra + Number Systems, mixed exercises",
+          "subject": "Maths"
+        },
+        {
+          "time": "2:30-4:30 PM",
+          "text": "Coordinate Geometry + Statistics / Probability",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "Check with school and teachers whether regular tuition still continues.",
+      "source_page": 16
+    },
+    "2027-02-14": {
+      "date": "2027-02-14",
+      "kind": "MATHS-ONLY FINAL REVISION",
+      "week": 13,
+      "phase": "Maths final five days",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Triangles and Circles: essential proofs",
+          "subject": "Maths"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "Trigonometry and its applications",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "Check with school and teachers whether regular tuition still continues.",
+      "source_page": 16
+    },
+    "2027-02-15": {
+      "date": "2027-02-15",
+      "kind": "MATHS-ONLY FINAL REVISION",
+      "week": 13,
+      "phase": "Maths final five days",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "Mensuration formulas and mixed problems",
+          "subject": "Maths"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "text": "Maths tuition + travel, if still running",
+          "subject": "Maths"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Correct previous Standard paper mistakes",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "Check with school and teachers whether regular tuition still continues.",
+      "source_page": 16
+    },
+    "2027-02-16": {
+      "date": "2027-02-16",
+      "kind": "MATHS-ONLY FINAL REVISION",
+      "week": 13,
+      "phase": "Maths final five days",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "Formula sheet, easy confidence questions; sleep early",
+          "subject": "Maths"
+        }
+      ],
+      "commitment": "Check with school and teachers whether regular tuition still continues.",
+      "source_page": 16
+    },
+    "2027-02-17": {
+      "date": "2027-02-17",
+      "kind": "Maths board exam; school timetable replaced by exam",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "After exam-2:30 PM",
+          "text": "Return, lunch, rest. Do not restart immediately.",
+          "subject": "General"
+        },
+        {
+          "time": "3:00-4:00 PM",
+          "text": "SCIENCE: list weak chapters from pre-boards and revise Chemistry reaction types, balancing, acids/bases, salts.",
+          "subject": "Science"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "text": "Maths tuition only if still held; otherwise Science: metals, carbon compounds and practice questions.",
+          "subject": "Maths"
+        },
+        {
+          "time": "7:45-8:30 PM",
+          "text": "Science: make a one-page Chemistry reactions and observations sheet.",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "Maths board exam; school timetable replaced by exam",
+      "source_page": 24
+    },
+    "2027-02-18": {
+      "date": "2027-02-18",
+      "kind": "School 7 AM-2 PM if operating; Hindi tuition 3:30-5:30 PM if held",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "SCIENCE Physics: Light, ray diagrams, mirrors/lenses and numericals.",
+          "subject": "Science"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "SCIENCE Physics: Electricity, key formulas, units, circuit numericals.",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "School 7 AM-2 PM if operating; Hindi tuition 3:30-5:30 PM if held",
+      "source_page": 24
+    },
+    "2027-02-19": {
+      "date": "2027-02-19",
+      "kind": "Weekend; Science tuition 12-2 PM",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "SCIENCE Physics: Magnetic Effects + mixed Light/Electricity calculations.",
+          "subject": "Science"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "Mark mistakes and redo wrong numericals.",
+          "subject": "General"
+        },
+        {
+          "time": "12:00-2:00 PM",
+          "text": "SCIENCE TUITION: ask teacher to focus on highest-error topics.",
+          "subject": "Science"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "SCIENCE Biology: Life Processes and Control & Coordination, diagrams and keywords.",
+          "subject": "Science"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "SCIENCE Biology: Reproduction, Heredity, Our Environment, short-answer recall.",
+          "subject": "Science"
+        }
+      ],
+      "commitment": "Weekend; Science tuition 12-2 PM",
+      "source_page": 24
+    },
+    "2027-02-20": {
+      "date": "2027-02-20",
+      "kind": "Weekend; Hindi tuition 11:30 AM-1:30 PM if continuing",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "SCIENCE: timed full-length 3-hour paper PART 1 (2 hours).",
+          "subject": "Science"
+        },
+        {
+          "time": "2:30-3:30 PM",
+          "text": "Finish remaining 1 hour of timed paper only if interrupted; otherwise check answers.",
+          "subject": "General"
+        },
+        {
+          "time": "3:30-4:30 PM",
+          "text": "Mark answers using scheme. Redo Chemistry/Physics numerical errors.",
+          "subject": "General"
+        },
+        {
+          "time": "4:45-5:30 PM",
+          "text": "Revise Biology labeling and 3/5-mark explanation patterns.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "Weekend; Hindi tuition 11:30 AM-1:30 PM if continuing",
+      "source_page": 24
+    },
+    "2027-02-21": {
+      "date": "2027-02-21",
+      "kind": "School 7 AM-5 PM if operating",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "Final SCIENCE sheet: reactions, Physics formulas, diagram labels.",
+          "subject": "General"
+        },
+        {
+          "time": "7:30-8:15 PM",
+          "text": "Only previously incorrect questions and definitions; prepare stationery, rest.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School 7 AM-5 PM if operating",
+      "source_page": 24
+    },
+    "2027-02-22": {
+      "date": "2027-02-22",
+      "kind": "Science board exam",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "After exam-2:30 PM",
+          "text": "Lunch and rest after Science.",
+          "subject": "General"
+        },
+        {
+          "time": "3:00-4:00 PM",
+          "text": "AI: Employability Skills, essential definitions and MCQs.",
+          "subject": "AI"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "text": "Maths tuition only if still held; otherwise AI: Project Cycle and ethical framework.",
+          "subject": "Maths"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "AI: Advanced Modeling + Model Evaluation, accuracy/precision/recall practice.",
+          "subject": "AI"
+        }
+      ],
+      "commitment": "Science board exam",
+      "source_page": 25
+    },
+    "2027-02-23": {
+      "date": "2027-02-23",
+      "kind": "School 7 AM-5 PM if operating; Science tuition 7-9 PM if still held",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "AI: Computer Vision, NLP, common applications and quick question bank.",
+          "subject": "AI"
+        },
+        {
+          "time": "7:00-9:00 PM",
+          "text": "If Science tuition is cancelled: AI full syllabus recall and short practice paper. If not cancelled: protect rest after school.",
+          "subject": "General"
+        },
+        {
+          "time": "9:00-9:15 PM",
+          "text": "Pack exam supplies; stop. No late-night cramming.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School 7 AM-5 PM if operating; Science tuition 7-9 PM if still held",
+      "source_page": 25
+    },
+    "2027-02-24": {
+      "date": "2027-02-24",
+      "kind": "AI board exam",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "After exam-2:30 PM",
+          "text": "Lunch/rest, then switch completely to English.",
+          "subject": "General"
+        },
+        {
+          "time": "3:00-4:00 PM",
+          "text": "ENGLISH: First Flight prose and poems. Character, theme, important extract answers.",
+          "subject": "English"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "text": "Maths tuition only if still held; otherwise Footprints Without Feet stories and extracts.",
+          "subject": "Maths"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "ENGLISH: unseen reading passage and grammar question sets.",
+          "subject": "English"
+        }
+      ],
+      "commitment": "AI board exam",
+      "source_page": 25
+    },
+    "2027-02-25": {
+      "date": "2027-02-25",
+      "kind": "School 7 AM-2 PM if operating; Hindi tuition 3:30-5:30 PM",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "ENGLISH: writing formats, one timed analytical paragraph and one letter.",
+          "subject": "English"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "ENGLISH: 2 literature extracts + short/long answers; revise common grammar errors.",
+          "subject": "English"
+        },
+        {
+          "time": "8:45-9:00 PM",
+          "text": "Pack exam supplies; final 15-minute checklist.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School 7 AM-2 PM if operating; Hindi tuition 3:30-5:30 PM",
+      "source_page": 25
+    },
+    "2027-02-26": {
+      "date": "2027-02-26",
+      "kind": "English board exam; Science tuition 12-2 PM only if continuing",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "After exam-2:30 PM",
+          "text": "Return, lunch and rest. Skip any tuition conflicting with exam travel.",
+          "subject": "General"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "HINDI B: Sparsh prose. Themes, characters, keywords and textbook questions.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "HINDI B: unseen passage and comprehension practice.",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "English board exam; Science tuition 12-2 PM only if continuing",
+      "source_page": 26
+    },
+    "2027-02-27": {
+      "date": "2027-02-27",
+      "kind": "Weekend; Hindi tuition 11:30 AM-1:30 PM",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "HINDI B: Sparsh poetry. Meanings, themes and extract-based answers.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "11:30 AM-1:30 PM",
+          "text": "HINDI TUITION: discuss grammar, writing and literature difficulties.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "2:30-4:00 PM",
+          "text": "HINDI B: Sanchayan lessons and textbook questions.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "HINDI B: grammar drills and corrections.",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "Weekend; Hindi tuition 11:30 AM-1:30 PM",
+      "source_page": 26
+    },
+    "2027-02-28": {
+      "date": "2027-02-28",
+      "kind": "School 7 AM-5 PM if operating",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "HINDI B: grammar rules with 25-30 practice questions.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "7:30-8:30 PM",
+          "text": "HINDI B: writing formats and one timed answer.",
+          "subject": "Hindi"
+        }
+      ],
+      "commitment": "School 7 AM-5 PM if operating",
+      "source_page": 26
+    },
+    "2027-03-01": {
+      "date": "2027-03-01",
+      "kind": "School 7 AM-2 PM; Maths tuition 4-7 PM only if continuing",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "3:00-3:45 PM",
+          "text": "HINDI B: tricky poetry/prose answers, recall without book.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "text": "If Maths tuition cancelled: full Hindi sample paper or 2-hour practice.",
+          "subject": "General"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "Check literature and grammar errors from practice.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School 7 AM-2 PM; Maths tuition 4-7 PM only if continuing",
+      "source_page": 26
+    },
+    "2027-03-02": {
+      "date": "2027-03-02",
+      "kind": "School 7 AM-5 PM; Science tuition 7-9 PM only if continuing",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-6:30 PM",
+          "text": "HINDI B: final grammar and writing-format sheet.",
+          "subject": "Hindi"
+        },
+        {
+          "time": "7:00-9:00 PM",
+          "text": "If Science tuition cancelled: Hindi literature summaries and missed answers; finish early.",
+          "subject": "General"
+        },
+        {
+          "time": "9:00-9:15 PM",
+          "text": "Pack stationery and rest; do not begin new topics.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School 7 AM-5 PM; Science tuition 7-9 PM only if continuing",
+      "source_page": 26
+    },
+    "2027-03-03": {
+      "date": "2027-03-03",
+      "kind": "Hindi board exam",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "After exam-2:30 PM",
+          "text": "Lunch/rest, then start Social Science.",
+          "subject": "General"
+        },
+        {
+          "time": "3:00-4:00 PM",
+          "text": "SOCIAL SCIENCE History: Nationalism in Europe and Nationalism in India.",
+          "subject": "Social"
+        },
+        {
+          "time": "4:00-7:00 PM",
+          "text": "Maths tuition only if still held; otherwise History remaining prescribed topics.",
+          "subject": "Maths"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "History: timelines, keywords, causes/effects and 3/5-mark answers.",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "Hindi board exam",
+      "source_page": 27
+    },
+    "2027-03-04": {
+      "date": "2027-03-04",
+      "kind": "School 7 AM-2 PM if operating; Hindi tuition 3:30-5:30 PM only if held",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-7:00 PM",
+          "text": "CIVICS: Power Sharing, Federalism, Gender Religion and Caste.",
+          "subject": "Social"
+        },
+        {
+          "time": "7:45-8:45 PM",
+          "text": "CIVICS: Political Parties, Outcomes of Democracy, 3/5-mark practice.",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "School 7 AM-2 PM if operating; Hindi tuition 3:30-5:30 PM only if held",
+      "source_page": 27
+    },
+    "2027-03-05": {
+      "date": "2027-03-05",
+      "kind": "Weekend; Science tuition 12-2 PM if continuing",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "GEOGRAPHY: resources, water, agriculture, minerals and energy.",
+          "subject": "Social"
+        },
+        {
+          "time": "10:45-11:30 AM",
+          "text": "GEOGRAPHY: manufacturing, lifelines, maps/location practice as prescribed.",
+          "subject": "Social"
+        },
+        {
+          "time": "3:00-4:30 PM",
+          "text": "ECONOMICS: development, sectors, money and credit, globalization.",
+          "subject": "Social"
+        },
+        {
+          "time": "5:00-6:00 PM",
+          "text": "ECONOMICS: objective/case-based questions and common errors.",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "Weekend; Science tuition 12-2 PM if continuing",
+      "source_page": 27
+    },
+    "2027-03-06": {
+      "date": "2027-03-06",
+      "kind": "Weekend; Hindi tuition 11:30 AM-1:30 PM only if held",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "8:30-10:30 AM",
+          "text": "SOCIAL SCIENCE: timed sample paper, first 2 hours.",
+          "subject": "Social"
+        },
+        {
+          "time": "2:30-3:30 PM",
+          "text": "Finish remaining paper time (if interrupted) or mark answers.",
+          "subject": "General"
+        },
+        {
+          "time": "3:30-4:30 PM",
+          "text": "Correct long-answer points, case studies and map errors.",
+          "subject": "General"
+        },
+        {
+          "time": "4:30-5:30 PM",
+          "text": "History/Civics terms and Geography map revision.",
+          "subject": "Social"
+        }
+      ],
+      "commitment": "Weekend; Hindi tuition 11:30 AM-1:30 PM only if held",
+      "source_page": 27
+    },
+    "2027-03-07": {
+      "date": "2027-03-07",
+      "kind": "School 7 AM-5 PM if operating",
+      "week": 14,
+      "phase": "Board exam gap plan",
+      "sessions": [
+        {
+          "time": "5:45-6:45 PM",
+          "text": "SOCIAL: maps, key definitions, timeline and 5-mark answer structures.",
+          "subject": "Social"
+        },
+        {
+          "time": "7:30-8:15 PM",
+          "text": "Review only wrong questions; pack exam supplies and sleep early.",
+          "subject": "General"
+        }
+      ],
+      "commitment": "School 7 AM-5 PM if operating",
+      "source_page": 27
+    }
+  },
+  "chapters": {
+    "Maths": [
+      "Real Numbers: FTA, HCF/LCM, irrationality",
+      "Polynomials: zeroes and coefficient relations",
+      "Pair of Linear Equations: graphical and algebraic",
+      "Quadratic Equations: factoring, formula and word problems",
+      "Arithmetic Progressions: nth term and sum",
+      "Triangles: similarity, proofs and applications",
+      "Coordinate Geometry: distance and section formula",
+      "Introduction to Trigonometry: ratios and identities",
+      "Applications of Trigonometry: heights and distances",
+      "Circles: tangents and related proofs",
+      "Areas Related to Circles: sectors and segments",
+      "Surface Areas and Volumes: combined solids",
+      "Statistics: grouped data mean, median, mode",
+      "Probability: classical probability",
+      "Maths Standard: mixed NCERT + competency practice"
+    ],
+    "Science": [
+      "Chemical Reactions and Equations: types, balancing",
+      "Acids, Bases and Salts: reactions, uses and pH",
+      "Metals and Non-metals: properties, reactivity",
+      "Carbon and Its Compounds: bonding and reactions",
+      "Life Processes: diagrams and explanations",
+      "Control and Coordination: neurons, reflex, hormones",
+      "How Do Organisms Reproduce?: diagrams",
+      "Heredity: Mendelian crosses and traits",
+      "Light: reflection, refraction, ray diagrams",
+      "Human Eye and Colourful World: concepts",
+      "Electricity: circuits, formulae, numericals",
+      "Magnetic Effects of Electric Current: rules and diagrams",
+      "Our Environment: food chains, waste and ozone",
+      "Science: mixed NCERT, competency and errors"
+    ],
+    "Social": [
+      "History: Rise of Nationalism in Europe",
+      "History: Nationalism in India",
+      "History: Making of a Global World (prescribed portions)",
+      "History: Print Culture and the Modern World",
+      "Geography: Resources and Development + maps",
+      "Geography: Forest and Wildlife Resources",
+      "Geography: Water Resources + maps",
+      "Geography: Agriculture + maps",
+      "Geography: Minerals and Energy Resources + maps",
+      "Geography: Manufacturing Industries + maps",
+      "Geography: Lifelines of National Economy (map work)",
+      "Political Science: Power Sharing",
+      "Political Science: Federalism",
+      "Political Science: Gender, Religion and Caste",
+      "Political Science: Political Parties",
+      "Political Science: Outcomes of Democracy",
+      "Economics: Development",
+      "Economics: Sectors of the Indian Economy",
+      "Economics: Money and Credit",
+      "Economics: Globalisation and Indian Economy",
+      "Social: map work and 3-/5-mark written answers"
+    ],
+    "English": [
+      "First Flight: A Letter to God + Nelson Mandela",
+      "First Flight: Two Stories About Flying",
+      "First Flight: From the Diary of Anne Frank",
+      "First Flight: Glimpses of India",
+      "First Flight: Mijbil the Otter",
+      "First Flight: Madam Rides the Bus",
+      "First Flight: The Sermon at Benares",
+      "First Flight: The Proposal",
+      "First Flight: poems 1-5: meaning and devices",
+      "First Flight: remaining poems and extracts",
+      "Footprints Without Feet: first half stories",
+      "Footprints Without Feet: remaining stories",
+      "English: unseen reading + inference",
+      "English: grammar + writing tasks",
+      "English: timed literature answers"
+    ],
+    "Hindi": [
+      "Hindi Course B: Sparsh prescribed prose",
+      "Hindi Course B: Sparsh prescribed poetry",
+      "Hindi Course B: Sanchayan prescribed stories",
+      "Hindi Course B: grammar practice",
+      "Hindi Course B: writing formats and timed answers",
+      "Hindi B: unseen passages + reading comprehension",
+      "Hindi B: literature short/long answers"
+    ],
+    "AI": [
+      "AI 417: AI Project Cycle and ethics",
+      "AI 417: Advanced Concepts of Modeling",
+      "AI 417: Evaluating Models and metrics",
+      "AI 417: Computer Vision concepts",
+      "AI 417: Natural Language Processing",
+      "AI 417: Employability Skills prescribed units",
+      "AI 417: MCQs, case/application questions"
+    ]
+  },
+  "readiness": [
+    "All prescribed chapters studied at least once",
+    "Pre-board 1 and 2 papers reviewed for weaknesses",
+    "All six subjects revised; key mistakes corrected",
+    "Maths Standard formulas/proofs and NCERT examples covered",
+    "Science diagrams/reactions/numericals practised",
+    "Social Science map work and written answers practised",
+    "English/Hindi reading, grammar, literature and writing practised",
+    "AI 417 subject skills and application questions practised",
+    "Mock papers completed under time limits",
+    "12-16 February protected for Maths-only practice"
+  ],
+  "final_exam_milestones": [
+    "NCERT / prescribed syllabus revised",
+    "Practice paper or timed questions completed",
+    "Wrong answers corrected",
+    "Exam bag and reporting time checked"
+  ],
+  "checkpoints": [
+    {
+      "start": "2026-11-22",
+      "end": "2026-12-15",
+      "label": "First pass + Pre-board 1, use results to diagnose gaps"
+    },
+    {
+      "start": "2026-12-16",
+      "end": "2027-01-17",
+      "label": "Finish coverage + Pre-board 2"
+    },
+    {
+      "start": "2027-01-18",
+      "end": "2027-01-31",
+      "label": "Second-pass study, correction of weak chapters"
+    },
+    {
+      "start": "2027-02-01",
+      "end": "2027-02-11",
+      "label": "Mock papers + final six-subject revision"
+    }
+  ],
+  "weekly_routine": {
+    "Sunday": "School 7 AM-2 PM; special tuition 2-5 PM only if held",
+    "Monday": "School 7 AM-2 PM; Maths tuition + travel 4-7 PM",
+    "Tuesday": "School 7 AM-2 PM; special tuition 2-5 PM only if held; Science 7-9 PM",
+    "Wednesday": "School 7 AM-2 PM; Maths tuition + travel 4-7 PM",
+    "Thursday": "School 7 AM-2 PM; Hindi online 3:30-5:30 PM",
+    "Friday": "Weekend; Science online 12-2 PM",
+    "Saturday": "Weekend; Hindi online 11:30 AM-1:30 PM"
+  },
+  "source": "CBSE_Class_10_2027_FINAL_Verified_Print_Study_Planner(1)(2).pdf",
+  "important_note": "School pre-board times not specified in source. Conditional school tuition and board-period classes must be confirmed with teachers. Use prescribed school chapter exclusions."
+}
